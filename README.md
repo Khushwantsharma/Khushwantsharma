@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Khushwantsharma
-- 👀 I’m interested in Golang And Nodejs Projects .
+- 👀 I’m working on Golang OpenSoure Projects.
 - 🌱 I’m currently learning Microservices in Golang .
-- 💞️ I’m looking to collaborate on Distributed System and Golang Application .
+- 💞️ I’m looking to collaborate on Application which are using  Golang .
 - 📫 How to reach me Khushwant52000@gmail.com .
 
 
